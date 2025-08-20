@@ -22,3 +22,8 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# 인증서 및 개인키 정보
+src/main/ssl
+src/main/webapp/ssl
+
